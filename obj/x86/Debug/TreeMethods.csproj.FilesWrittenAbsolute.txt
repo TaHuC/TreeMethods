@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/TreeMethods/TreeMethods/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/TreeMethods/TreeMethods/bin/Debug/TreeMethods.exe.mdb
+/Users/TaHuC/Projects/TreeMethods/TreeMethods/bin/Debug/TreeMethods.exe
+/Users/TaHuC/Projects/TreeMethods/TreeMethods/obj/x86/Debug/TreeMethods.exe
+/Users/TaHuC/Projects/TreeMethods/TreeMethods/obj/x86/Debug/TreeMethods.exe.mdb
